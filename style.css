@@ -1,0 +1,252 @@
+body {
+  font-family: "Inika", "Roboto Mono", serif;
+}
+
+.part1 {
+  width: 1440px;
+  margin: auto;
+  margin-bottom: 100px;
+  padding-top: 25px;
+  border: 1px solid rgb(201, 199, 199);
+}
+
+h1 {
+  margin: 0;
+}
+
+.header_title {
+  font-family: "M PLUS 1", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 70px;
+  letter-spacing: 0.1em;
+  color: #e8c23e;
+  text-align: center;
+}
+
+.strong {
+  color: #3e45e8;
+}
+
+.about-Ukraine {
+  max-width: 1036px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 157.3%;
+  padding-top: 195px;
+  padding-left: 16px;
+  color: #ffffff;
+  margin: 0;
+  display: inline-block;
+}
+
+.flag {
+  padding-left: 80px;
+}
+
+.main-content {
+  margin: 0 auto;
+}
+
+.container {
+  background-image: url(./image/image_back.png);
+  width: 1440px;
+  height: 803px;
+  margin-top: 31px;
+}
+
+.header {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 157.3%;
+}
+
+.city {
+  padding: 72px 0 25px 80px;
+  margin: 0;
+}
+
+.underline {
+  height: 5px;
+  width: 402px;
+  background-color: #3e45e8;
+  margin-left: 80px;
+}
+
+.victory {
+  text-align: center;
+  margin: 0;
+  padding-bottom: 21px;
+}
+
+.centerline {
+  margin: auto;
+}
+
+.cards-box {
+  display: flex;
+  justify-content: space-between;
+  margin: 33px 82px 74px 94px;
+}
+
+.card {
+  width: 391.2px;
+  height: 481px;
+
+  background: #ffffff;
+  box-shadow: 0px 4px 57px 3px rgba(0, 0, 0, 0.25);
+  border-radius: 30px;
+}
+
+.lutsk {
+  width: 100%;
+}
+
+.card-header {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 157.3%;
+  color: #1e8df2;
+  margin-left: 10px;
+  margin-top: 16px;
+}
+
+.card-subheader {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 157.3%;
+  color: #e8c23e;
+  margin-left: 10px;
+  margin-top: 10px;
+  max-width: 338px;
+}
+
+.ukraine-flag {
+  display: block;
+  padding: 41px 0;
+  margin: auto;
+}
+
+.button {
+  width: 591px;
+  height: 121px;
+  background-color: #2a61f0;
+  margin: auto;
+  color: #ffffff;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 157.3%;
+  text-align: center;
+  padding-top: 10px;
+  margin-bottom: 21px;
+}
+
+.contacts {
+  width: 1440px;
+  height: 320px;
+  background: #2f4a4b;
+}
+
+.tel-and-mail {
+  font-family: "Marcellus SC";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 45px;
+  letter-spacing: 0.1em;
+  color: #a89d9d;
+  display: block;
+  text-align: center;
+  margin: 21px 0;
+  text-decoration: none;
+}
+
+.social-networks {
+  display: flex;
+  justify-content: center;
+}
+
+.instagram {
+  margin-right: 15px;
+}
+
+.part2 {
+  margin: 80px auto;
+  display: flex;
+  width: 1800px;
+  justify-content: space-between;
+}
+
+.diia {
+  width: 512px;
+  height: 512px;
+  background: #000000;
+  display: inline-block;
+  position: relative;
+}
+
+.diia-title {
+  position: absolute;
+  left: 90px;
+  top: 147px;
+  width: 310px;
+}
+
+.diia-flag {
+  position: absolute;
+  left: 220px;
+  top: 350px;
+}
+
+.square {
+  width: 512px;
+  height: 512px;
+  background: #ffce22;
+  display: inline-block;
+  position: relative;
+}
+
+.blue {
+  width: 512px;
+  height: 256px;
+  background-color: #2137fc;
+}
+
+.glyph {
+  position: absolute;
+  left: 58px;
+  top: 144px;
+}
+
+.circle {
+  display: inline-block;
+  position: relative;
+  background: #ffffff;
+  width: 512px;
+  height: 512px;
+  margin-top: 32px;
+}
+
+.yellow {
+  width: 444px;
+  height: 444px;
+  background: #ffce22;
+  border-radius: 50%;
+}
+
+.glyph-circle {
+  position: absolute;
+  left: 43px;
+  top: 216px;
+  width: 359px;
+}
+
+.blue-image {
+  width: 444px;
+}
